@@ -1,4 +1,6 @@
 bmw
 benz
 toyota
-mazda
+nissan
+ford
+vw
